@@ -6,3 +6,10 @@ Total 2 Papers
 [paper] (http://openaccess.thecvf.com/content_cvpr_2018/papers/Gidaris_Dynamic_Few-Shot_Visual_CVPR_2018_paper.pdf)
 [github] (https://github.com/gidariss/FewShotWithoutForgetting)
 * Weight generation
+
+* Name : BlockDrop: Dynamic Inference Paths in Residual Networks
+* Authors : Zuxuan Wu, Tushar Nagarajan, Abhishek Kumar, Steven Rennie, Larry S. Davis, Kristen Grauman, Rogerio Feris
+* link : CVPR2018. 
+[paper] (http://www.cs.utexas.edu/~grauman/papers/blockdrop_cvpr2018.pdf)
+[github] (https://github.com/Tushar-N/blockdrop)
+* Increase inference speed in ResNet
